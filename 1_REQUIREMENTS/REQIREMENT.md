@@ -3,18 +3,18 @@
 ## Introduction
 
 * This project is the implementation for “VECHILE PARKING MANAGEMENT SYSTEM” is a program developed for managing Vehicles entering to the parking ground. 
-* A Parking Guidance System helps in proper allocation of the parking spot to the vehicles. The system will help the drivers with the exact location, where to park. The System also holds the data of the car driver and the car. With this data, we can calculate what charges are to be paid for differrent type of vehicles and how long the vehicle was parked.
+*A Parking Guidance System helps in proper allocation of the parking spot to the vehicles. The system will help the drivers with the exact location, where to park. The System also holds the data of the car driver and the car. With this data, we can calculate what charges are to be paid for differrent type of vehicles and how long the vehicle was parked.
 
 ## Research
+### About vehicle Management System C Project:
 
-**About vehicle Management System C Project:**
 ---Add new vehicle record: In this feature, user can add a new vehicle record ---Search or edit vehicle record. ---List record of vehicles. ---Delete vehicle  records' ---Exit from the system
-* Many a times we have noticed long queues in the parking lot.
-* The possible reasons are:
-    * People inside are finding a parking spot.
-    * Someone is having an arguement regarding the spot. 
-    * The manager might run out of paper and is unable to make tickets.
-* The Parking charges depends on the type of the vehicle and how long the vehicle was parked.
+Many a times we have noticed long queues in the parking lot.
+The possible reasons are:
+1. People inside are finding a parking spot.
+2. Someone is having an arguement regarding the spot. 
+3. The manager might run out of paper and is unable to make tickets.
+4. The Parking charges depends on the type of the vehicle and how long the vehicle was parked.
 
 ## Cost and Features and Timeline
 
@@ -79,7 +79,7 @@ Outside of Movie Theatres, Stadiums, Auditoriums, etc.
 
 **4.Where**
 * This can be readily adopted like in educational institutes,social meetings,office etc 
-**5.How**
+*5.How*
 * The system will estimate  and indicate how many spots are vacant and assign them accordingly.
 * The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
@@ -97,7 +97,7 @@ Outside of Movie Theatres, Stadiums, Auditoriums, etc.
 | HLR05 | User can get additional features | Future |
 
 
-##  Low level Requirements:
+## Low level Requirements:
 | ID | Description | HLR ID | Status (Implemented/Future) |
 |----|-------------|--------|---------------------|
 | LLR01 | New entry is to be added by pressing 1 | HLR01 | Implemented |
