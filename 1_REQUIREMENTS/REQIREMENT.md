@@ -3,7 +3,7 @@
 ## Introduction
 
 * This project is the implementation for “VECHILE PARKING MANAGEMENT SYSTEM” is a program developed for managing Vehicles entering to the parking ground. 
-*A Parking Guidance System helps in proper allocation of the parking spot to the vehicles. The system will help the drivers with the exact location, where to park. The System also holds the data of the car driver and the car. With this data, we can calculate what charges are to be paid for differrent type of vehicles and how long the vehicle was parked.
+* A Parking Guidance System helps in proper allocation of the parking spot to the vehicles. The system will help the drivers with the exact location, where to park. The System also holds the data of the car driver and the car. With this data, we can calculate what charges are to be paid for differrent type of vehicles and how long the vehicle was parked.
 
 ## Research
 ### About vehicle Management System C Project:
@@ -11,26 +11,24 @@
 ---Add new vehicle record: In this feature, user can add a new vehicle record ---Search or edit vehicle record. ---List record of vehicles. ---Delete vehicle  records' ---Exit from the system
 Many a times we have noticed long queues in the parking lot.
 The possible reasons are:
-1. People inside are finding a parking spot.
-2. Someone is having an arguement regarding the spot. 
-3. The manager might run out of paper and is unable to make tickets.
-4. The Parking charges depends on the type of the vehicle and how long the vehicle was parked.
+1.People inside are finding a parking spot.
+2.Someone is having an arguement regarding the spot. 
+3.The manager might run out of paper and is unable to make tickets.
+4.The Parking charges depends on the type of the vehicle and how long the vehicle was parked.
 
 ## Cost and Features and Timeline
-
-* The system might cost around 50,000 INR.
-* The system consists of a software to collect the data and store it.
-* The indication mechanism is required for indicating the parking spot location.
-* The data used can be used for future infrastructure improvements.
-* The system will ensure security as each and every car is allocated a specific spot. So, if some ransom vehicle is parked the system will raise an alert.
-* As managemnet becomes fast, more vehicles can be accomadated, generating more revenue.
-* The system installation cost can be recovered within a year.
-* Time-saving Technology
-* Improved Efficiency by avoiding human errors
-* Reduces scope for Error 
-* Cost effective and easily manageable 
-* Easy access to  data with correct  history possible
-* Reduces the work of documentation
+1.The system might cost around 50,000 INR.* The system consists of a software to collect the data and store it.
+2.The indication mechanism is required for indicating the parking spot location.
+3.The data used can be used for future infrastructure improvements.
+4.The system will ensure security as each and every car is allocated a specific spot. So, if some ransom vehicle is parked the system   will raise an alert.
+5. As managemnet becomes fast, more vehicles can be accomadated, generating more revenue.
+6. The system installation cost can be recovered within a year.
+7. Time-saving Technology
+8. Improved Efficiency by avoiding human errors
+9. Reduces scope for Error 
+10. Cost effective and easily manageable 
+11.Easy access to  data with correct  history possible
+12. Reduces the work of documentation
 
 ## Defining Our System
 
@@ -42,44 +40,44 @@ The possible reasons are:
 
 ## SWOT ANALYSIS
 
-**1.Strengths**
+#### 1.Strengths:
 • It can easily recreated according to type of space(easily apotable).
 * Efficient menthod than manual
 * improves credibility and secuity of the system
 
-**2.Weakness**
+#### 2.Weakness:
 * uniterrupted supply of power is required(ie constant)
 * proper infrastructure required
 * incase of any error need a technical person to correct the issue
 
-**3.Opportunities:**
+#### 3.Opportunities:
 • Collaborate with different  organizations to knowledge share
  • Develop programs and initiatives to drive more community outreach and engagement 
  
  
-**4.Threats:**
+#### 4.Threats:
 • Similar type of product is ready in market
 • Incase of any updates needs some maintenance
 * Requires some technical skills
 
 ## 4 W'S AND 1'H
 
-**1.Who**
+#### 1.Who
 * This can be fit to any buildings with parking slots.
 * The implementation of vehicle management system project provides the institution with different advantages that improve the service quality and efficiency.
 * As mentioned above it is created a user can handle: vehicles details, records and management,
 
-**2.What**
+#### 2.What
 * The vehicle management system helps register complete vehicle information. 
 * ften we wait outside parking facility and when our chance comes the facility gets full.
 
-**3.When**
+#### 3.When
 * The problems are faced almost everytime there is an event.
 Outside of Movie Theatres, Stadiums, Auditoriums, etc.
 
-**4.Where**
+#### 4.Where
 * This can be readily adopted like in educational institutes,social meetings,office etc 
-*5.How*
+#### 5.How
 * The system will estimate  and indicate how many spots are vacant and assign them accordingly.
 * The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
@@ -111,4 +109,3 @@ Outside of Movie Theatres, Stadiums, Auditoriums, etc.
 | LLR09 | Store data after every entry so that power failure doesn't erase data | HLR05 | Future |
 | LLR10 | A customer can book the spot earlier | HLR05 | Future |
 | LLR11 | Online payment option for charges | HLR05 | Future |
-
