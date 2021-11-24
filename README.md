@@ -3,3 +3,15 @@
 
 
 ![badge](https://api.codiga.io/project/29945/score/svg)
+
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_TestPlan`      | Documents with test plans and procedures
+`Images_Videos` | Photos used in the whole project and videos of various issues resolved
+
