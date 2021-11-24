@@ -4,6 +4,8 @@
 
 ![badge](https://api.codiga.io/project/29945/score/svg)
 
+![badge](https://api.codiga.io/project/29945/status/svg)
+
 
 
 ## Folder Structure
