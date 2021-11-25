@@ -7,6 +7,9 @@
 ![badge](https://api.codiga.io/project/29945/status/svg)
 
 
+[![CI](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/main.yml)
+
+
 
 ## Folder Structure
 Folder             | Description
