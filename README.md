@@ -9,10 +9,9 @@
 
 [![CI](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/main.yml)
 
-
-[![CI](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/main.yml/badge.svg)](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/main.yml)
-
 [![.github/workflows/Git_inspector.yml](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/Git_inspector.yml)
+
+
 
 
 ## Folder Structure
