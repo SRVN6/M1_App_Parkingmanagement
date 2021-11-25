@@ -11,6 +11,8 @@
 
 [![.github/workflows/Git_inspector.yml](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/Git_inspector.yml)
 
+[![Unit Testing - Unity](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/unity.yml/badge.svg)](https://github.com/SRVN6/M1_App_Parkingmanagement/actions/workflows/unity.yml)
+
 
 
 
